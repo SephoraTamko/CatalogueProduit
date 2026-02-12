@@ -463,11 +463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Domain\\AdvancedDevSample.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Domain\\AdvancedDevSample.Domain.csproj",
       "projectName": "AdvancedDevSample.Domain",
-      "projectPath": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Domain\\AdvancedDevSample.Domain.csproj",
+      "projectPath": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Domain\\AdvancedDevSample.Domain.csproj",
       "packagesPath": "C:\\Users\\sepho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Domain\\obj\\",
+      "outputPath": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

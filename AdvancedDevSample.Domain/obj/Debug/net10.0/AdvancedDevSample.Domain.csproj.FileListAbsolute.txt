@@ -35,3 +35,16 @@ C:\Users\sepho\Desktop\Devoir\AdvancedDevSample\AdvancedDevSample.Domain\obj\Deb
 C:\Users\sepho\Desktop\Devoir\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\refint\AdvancedDevSample.Domain.dll
 C:\Users\sepho\Desktop\Devoir\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\AdvancedDevSample.Domain.pdb
 C:\Users\sepho\Desktop\Devoir\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\ref\AdvancedDevSample.Domain.dll
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\bin\Debug\net10.0\AdvancedDevSample.Domain.deps.json
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\bin\Debug\net10.0\AdvancedDevSample.Domain.dll
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\bin\Debug\net10.0\AdvancedDevSample.Domain.pdb
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\AdvancedDevSample.Domain.csproj.AssemblyReference.cache
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\AdvancedDevSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\AdvancedDevSample.Domain.AssemblyInfoInputs.cache
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\AdvancedDevSample.Domain.AssemblyInfo.cs
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\AdvancedDevSample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\AdvancedDevSample.Domain.sourcelink.json
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\AdvancedDevSample.Domain.dll
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\refint\AdvancedDevSample.Domain.dll
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\AdvancedDevSample.Domain.pdb
+C:\Users\sepho\Desktop\AdvancedDevSample\AdvancedDevSample.Domain\obj\Debug\net10.0\ref\AdvancedDevSample.Domain.dll

@@ -13,6 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Remove="Class1.cs" />
     <Compile Remove="DTOs\OrderRequest.cs" />
     <Compile Remove="DTOs\OrderStatus.cs" />
   </ItemGroup>

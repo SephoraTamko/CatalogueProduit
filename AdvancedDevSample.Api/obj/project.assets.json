@@ -1936,11 +1936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Api\\AdvancedDevSample.Api.csproj",
+      "projectUniqueName": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Api\\AdvancedDevSample.Api.csproj",
       "projectName": "AdvancedDevSample.Api",
-      "projectPath": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Api\\AdvancedDevSample.Api.csproj",
+      "projectPath": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Api\\AdvancedDevSample.Api.csproj",
       "packagesPath": "C:\\Users\\sepho\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Api\\obj\\",
+      "outputPath": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1961,14 +1961,14 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Application\\AdvancedDevSample.Application.csproj": {
-              "projectPath": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Application\\AdvancedDevSample.Application.csproj"
+            "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Application\\AdvancedDevSample.Application.csproj": {
+              "projectPath": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Application\\AdvancedDevSample.Application.csproj"
             },
-            "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Test\\AdvancedDevSample.Test.csproj": {
-              "projectPath": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Test\\AdvancedDevSample.Test.csproj"
+            "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Test\\AdvancedDevSample.Test.csproj": {
+              "projectPath": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Test\\AdvancedDevSample.Test.csproj"
             },
-            "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvanceDevSample.Infrastructure\\AdvanceDevSample.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvanceDevSample.Infrastructure\\AdvanceDevSample.Infrastructure.csproj"
+            "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvanceDevSample.Infrastructure\\AdvanceDevSample.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvanceDevSample.Infrastructure\\AdvanceDevSample.Infrastructure.csproj"
             }
           }
         }

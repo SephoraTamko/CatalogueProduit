@@ -2,35 +2,40 @@
 using AdvancedDevSample.Domain.Interfaces.Orders;
 using AdvanceDevSample.Infrastructure.Entities;
 
-public class EfOrderRepository : IOrderRepository
+
+namespace AdvanceDevSample.Infrastructure.Repositories
 {
-    public void Save(Order order)
+
+    public class EfOrderRepository : IOrderRepository
     {
-        var e = new OrderEntity
+        public void Save(Order order)
         {
-            Id = order.Id,
-            OrderNumber = order.OrderNumber,
-            CustomerId = order.CustomerId,
-            Currency = order.Currency,
-            Status = (int)order.Status,
-            TaxRate = order.TaxRate,
-            DiscountRate = order.DiscountRate,
-            ShippingCost = order.ShippingCost,
-            TotalAmount = order.TotalAmount,
-            CreatedAt = order.CreatedAt,
-            UpdatedAt = order.UpdatedAt,
-            Lines = order.Lines.Select(l => new OrderLineEntity
+            var e = new OrderEntity
             {
-                OrderId = order.Id,
-                ProductId = l.ProductId,
-                PriceAtPurchase = l.PriceAtPurchase,
-                Quantity = l.Quantity
-            }).ToList()
-        };
+                Id = order.Id,
+                OrderNumber = order.OrderNumber,
+                CustomerId = order.CustomerId,
+                Currency = order.Currency,
+                Status = (int)order.Status,
+                TaxRate = order.TaxRate,
+                DiscountRate = order.DiscountRate,
+                ShippingCost = order.ShippingCost,
+                TotalAmount = order.TotalAmount,
+                CreatedAt = order.CreatedAt,
+                UpdatedAt = order.UpdatedAt,
+                Lines = order.Lines.Select(l => new OrderLineEntity
+                {
+                    OrderId = order.Id,
+                    ProductId = l.ProductId,
+                    PriceAtPurchase = l.PriceAtPurchase,
+                    Quantity = l.Quantity
+                }).ToList()
+            };
 
-        Console.WriteLine($"[DB] Commande {order.Id} enregistrée.");
+            Console.WriteLine($"[DB] Commande {order.Id} enregistrée.");
+        }
+
+        public Order GetById(Guid id) =>
+            throw new NotImplementedException();
     }
-
-    public Order GetById(Guid id) =>
-        throw new NotImplementedException();
 }

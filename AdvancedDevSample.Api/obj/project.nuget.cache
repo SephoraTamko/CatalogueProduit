@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EQRIPaTMjxc=",
+  "dgSpecHash": "6qLLv7uJu9Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Api\\AdvancedDevSample.Api.csproj",
+  "projectFilePath": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Api\\AdvancedDevSample.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sepho\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\sepho\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
@@ -45,9 +45,9 @@
       "code": "NU1510",
       "level": "Warning",
       "message": "PackageReference Microsoft.AspNetCore.Mvc will not be pruned. Consider removing this package from your dependencies, as it is likely unnecessary.",
-      "projectPath": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Api\\AdvancedDevSample.Api.csproj",
+      "projectPath": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Api\\AdvancedDevSample.Api.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\sepho\\Desktop\\Devoir\\AdvancedDevSample\\AdvancedDevSample.Api\\AdvancedDevSample.Api.csproj",
+      "filePath": "C:\\Users\\sepho\\Desktop\\AdvancedDevSample\\AdvancedDevSample.Api\\AdvancedDevSample.Api.csproj",
       "libraryId": "Microsoft.AspNetCore.Mvc",
       "targetGraphs": [
         "net10.0"
