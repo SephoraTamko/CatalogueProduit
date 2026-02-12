@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="DTOs\Product\**" />
+    <EmbeddedResource Remove="DTOs\Product\**" />
+    <None Remove="DTOs\Product\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="DTOs\OrderRequest.cs" />
+    <Compile Remove="DTOs\OrderStatus.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdvancedDevSample.Domain\AdvancedDevSample.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

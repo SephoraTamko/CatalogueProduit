@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <NoWarn>$(NoWarn);1591</NoWarn>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\InMemoryOrderRepositoryAsync.cs" />
+    <Compile Remove="Controllers\OrdersController.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Remove="Data\Product.json" />
+    <Content Remove="Data\Products.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Data\Products.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.3.9" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AdvancedDevSample.Application\AdvancedDevSample.Application.csproj" />
+    <ProjectReference Include="..\AdvancedDevSample.Test\AdvancedDevSample.Test.csproj" />
+    <ProjectReference Include="..\AdvanceDevSample.Infrastructure\AdvanceDevSample.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

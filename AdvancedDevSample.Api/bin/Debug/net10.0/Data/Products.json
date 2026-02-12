@@ -1,0 +1,58 @@
+{
+  "f6b1122f-00f9-4099-aff2-6ff6c59c6931": {
+    "Id": "f6b1122f-00f9-4099-aff2-6ff6c59c6931",
+    "Price": 34,
+    "IsActive": true,
+    "Name": null,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  "859a55ee-c0b4-43b2-bc87-ac53b86e768b": {
+    "Id": "859a55ee-c0b4-43b2-bc87-ac53b86e768b",
+    "Price": 34,
+    "IsActive": true,
+    "Name": null,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  "96c1b5c9-e943-4e46-8b2b-487013f655e0": {
+    "Id": "96c1b5c9-e943-4e46-8b2b-487013f655e0",
+    "Price": 7,
+    "IsActive": true,
+    "Name": null,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  "b4fd0cdb-963f-4a21-806a-7398ae0aaeaa": {
+    "Id": "b4fd0cdb-963f-4a21-806a-7398ae0aaeaa",
+    "Price": 12,
+    "IsActive": true,
+    "Name": null,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  "1de5a8b8-781f-49ac-928e-df2b926fb930": {
+    "Id": "1de5a8b8-781f-49ac-928e-df2b926fb930",
+    "Price": 8,
+    "IsActive": true,
+    "Name": null,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  "0f9d51c6-394b-4fd3-9727-2a54a9b00978": {
+    "Id": "0f9d51c6-394b-4fd3-9727-2a54a9b00978",
+    "Price": 10,
+    "IsActive": true,
+    "Name": null,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  "32bfc115-dbe5-441c-b78c-d30d7f3cf3c7": {
+    "Id": "32bfc115-dbe5-441c-b78c-d30d7f3cf3c7",
+    "Price": 12,
+    "IsActive": true,
+    "Name": null,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  "bad3413e-88f5-409f-bede-1d1742046ca4": {
+    "Id": "bad3413e-88f5-409f-bede-1d1742046ca4",
+    "Price": 3,
+    "IsActive": true,
+    "Name": "yo",
+    "CreatedAt": "2026-02-11T22:42:41.841631Z"
+  }
+}
