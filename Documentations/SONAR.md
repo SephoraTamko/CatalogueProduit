@@ -12,16 +12,14 @@ Cette vue d'ensemble montre les indicateurs clés de performance (KPI) du projet
 
 Ci-dessous, les détails concernant les problèmes détectés, classés par sévérité.
 
-![Détails des Problèmes](../assets/SonarQube2.png)
+![Détails des Problèmes](../assets/erreur%20detectee.png)
 
 ## Métriques de Code
 
 Visualisation des métriques de complexité et de duplication.
 
-![Métriques](../assets/SonarQube3.png)
+![Métriques](../assets/a%20modifier.png)
 
-## Couverture de Tests
+## Solution apportee
 
-Rapport sur la couverture des tests unitaires et d'intégration.
-
-![Couverture](../assets/SonarQube4.png)
+![Couverture](../assets/modifier.png)
