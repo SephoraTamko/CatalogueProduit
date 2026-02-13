@@ -28,7 +28,7 @@ API → Infrastructure
  Le Domain ne dépend jamais d’une autre couche.
 
  Diagramme de Classes
-Markdown![Class Diagram](Documentations/class diagram.png)
+![Class Diagram](../assets/class%20diagram.png)
 
  Détails des couches
  Domain
@@ -80,6 +80,7 @@ Shelldotnet restoreAfficher plus de lignes
 Shellcd AdvancedDevSample.Apidotnet runAfficher plus de lignes
 4) Swagger
 https://localhost:7034/swagger
+![Swagger](../assets/swagger.png)
 
 
 
