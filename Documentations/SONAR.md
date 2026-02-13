@@ -1,27 +1,27 @@
-# Qualité du Code - SonarQube
+# QualitÃ© du Code - SonarQube
 
-Cette section présente les rapports d'analyse statique du code générés par **SonarQube**. Ces rapports permettent de suivre la dette technique, la couverture de code, et les potentiels bugs ou vulnérabilités.
+Cette section prÃ©sente les rapports d'analyse statique du code gÃ©nÃ©rÃ©s par **SonarQube**. Ces rapports permettent de suivre la dette technique, la couverture de code, et les potentiels bugs ou vulnÃ©rabilitÃ©s.
 
-## Tableau de Bord Général
+## Tableau de Bord GÃ©nÃ©ral
 
-Cette vue d'ensemble montre les indicateurs clés de performance (KPI) du projet, tels que la fiabilité, la sécurité, et la maintenabilité.
+Cette vue d'ensemble montre les indicateurs clÃ©s de performance (KPI) du projet, tels que la fiabilitÃ©, la sÃ©curitÃ©, et la maintenabilitÃ©.
 
-![Tableau de Bord](../assets/SonarQube1.png)
+![Tableau de Bord](../assets/tableau de bord.png)
 
-## Analyse Détaillée
+## Analyse DÃ©taillÃ©e
 
-Ci-dessous, les détails concernant les problèmes détectés, classés par sévérité.
+Ci-dessous, les dÃ©tails concernant les problÃ¨mes dÃ©tectÃ©s, classÃ©s par sÃ©vÃ©ritÃ©.
 
-![Détails des Problèmes](../assets/SonarQube2.png)
+![DÃ©tails des ProblÃ¨mes](../assets/SonarQube2.png)
 
-## Métriques de Code
+## MÃ©triques de Code
 
-Visualisation des métriques de complexité et de duplication.
+Visualisation des mÃ©triques de complexitÃ© et de duplication.
 
-![Métriques](../assets/SonarQube3.png)
+![MÃ©triques](../assets/SonarQube3.png)
 
 ## Couverture de Tests
 
-Rapport sur la couverture des tests unitaires et d'intégration.
+Rapport sur la couverture des tests unitaires et d'intÃ©gration.
 
 ![Couverture](../assets/SonarQube4.png)
