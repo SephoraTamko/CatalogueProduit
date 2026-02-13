@@ -1,5 +1,9 @@
 <Solution>
-  <Folder Name="/Documentations/" />
+  <Folder Name="/Documentations/">
+    <File Path="../../Downloads/class diagram.png" />
+    <File Path="README.md" />
+    <File Path="SONAR.md" />
+  </Folder>
   <Folder Name="/Solution Items/">
     <File Path=".gitignore" />
   </Folder>
