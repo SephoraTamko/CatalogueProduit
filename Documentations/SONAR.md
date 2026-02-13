@@ -6,7 +6,7 @@ Cette section présente les rapports d'analyse statique du code générés par *
 
 Cette vue d'ensemble montre les indicateurs clés de performance (KPI) du projet, tels que la fiabilité, la sécurité, et la maintenabilité.
 
-![Tableau de Bord](../assets/tableau de bord.png)
+![Tableau de Bord](../assets/tableau%20de%20bord.png)
 
 ## Analyse Détaillée
 
