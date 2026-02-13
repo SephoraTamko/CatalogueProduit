@@ -9,17 +9,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Data\**" />
+    <Content Remove="Data\**" />
+    <EmbeddedResource Remove="Data\**" />
+    <None Remove="Data\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Remove="Controllers\InMemoryOrderRepositoryAsync.cs" />
     <Compile Remove="Controllers\OrdersController.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Remove="Data\Product.json" />
-    <Content Remove="Data\Products.json" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Data\Products.json" />
+    <Compile Remove="Controllers\WeatherForecastController.cs" />
+    <Compile Remove="WeatherForecast.cs" />
   </ItemGroup>
 
   <ItemGroup>

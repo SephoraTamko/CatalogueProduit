@@ -7,12 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Class1.cs" />
-    <Compile Remove="Entities\Orders.cs" />
+    <Compile Remove="ValueObject\**" />
+    <EmbeddedResource Remove="ValueObject\**" />
+    <None Remove="ValueObject\**" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="ValueObject\" />
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="Entities\Orders.cs" />
   </ItemGroup>
 
   <ItemGroup>

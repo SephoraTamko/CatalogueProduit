@@ -18,6 +18,9 @@
 
   <ItemGroup>
     <Compile Remove="API\Integration\InMemoryOrderRepositoryAsync.cs" />
+    <Compile Remove="API\Integration\OrderAsyncControllerIntegrationTests.cs" />
+    <Compile Remove="API\Integration\productAsyncControllerIntegrationTests.cs" />
+    <Compile Remove="UnitTest1.cs" />
   </ItemGroup>
 
   <ItemGroup>

@@ -52,7 +52,21 @@
     "Id": "bad3413e-88f5-409f-bede-1d1742046ca4",
     "Price": 3,
     "IsActive": true,
-    "Name": "yo",
-    "CreatedAt": "2026-02-11T22:42:41.841631Z"
+    "Name": null,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  "fd256b18-1054-40b6-bf1a-52e6c28b1b2e": {
+    "Id": "fd256b18-1054-40b6-bf1a-52e6c28b1b2e",
+    "Price": 12,
+    "IsActive": true,
+    "Name": null,
+    "CreatedAt": "0001-01-01T00:00:00"
+  },
+  "2404662c-3156-45c0-8e94-5d1286a7b7ba": {
+    "Id": "2404662c-3156-45c0-8e94-5d1286a7b7ba",
+    "Price": 23,
+    "IsActive": true,
+    "Name": "igname",
+    "CreatedAt": "2026-02-12T21:02:12.1872981Z"
   }
 }
